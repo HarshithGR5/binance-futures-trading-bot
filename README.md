@@ -1,4 +1,4 @@
-# PrimeTrade AI – Binance Futures Testnet Trading Bot
+# Binance Futures Testnet Trading Bot
 
 A simplified Python trading bot that places **Market**, **Limit**, and **Stop-type** orders on the **Binance Futures Testnet (USDT-M)**.  
 Built with a clean, reusable architecture, structured logging, and full input validation.
